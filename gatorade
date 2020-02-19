@@ -1,0 +1,3 @@
+print("You fool")
+for i in range (1000):
+  print ("Gatorade is better!")
